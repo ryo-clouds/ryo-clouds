@@ -70,9 +70,9 @@ currently_learning:
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ryo-clouds&show_icons=true&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryo-clouds&layout=compact&hide_border=true"/>
 
 </p>
 
@@ -101,9 +101,9 @@ currently_learning:
 ## 🌐 Connect
 
 <p>
-<a href="https://github.com/YOUR_USERNAME">GitHub</a> •
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">LinkedIn</a> •
-<a href="mailto:YOUR_EMAIL">Email</a>
+<a href="https://github.com/ryo-clouds">GitHub</a> •
+<a href="https://linkedin.com/in/fajar-afriansyah-81896a107">LinkedIn</a> •
+<a href="mailto:fajarafriansyah12@gmail.com">Email</a>
 </p>
 
 ---
