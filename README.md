@@ -1,16 +1,115 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**ryo-clouds/ryo-clouds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hello, I'm Fajar Afriansyah
 
-Here are some ideas to get you started:
+### Software Developer • DevOps • Network Engineer • Automation Enthusiast
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Build+Systems.;Automate+Everything.;Ship+Reliable+Infrastructure.;Backend+%7C+Network+%7C+DevOps"/>
+
+</div>
+
+---
+
+## 🚀 About Me
+
+```yaml
+name: Fajar Afriansyah
+role: Software Developer
+location: Indonesia
+
+focus:
+  - Backend Development
+  - DevOps & Infrastructure
+  - Automation Workflow
+  - System Integration
+  - Network Engineering
+
+currently_learning:
+  - AI Agents
+  - Distributed Systems
+  - CI/CD Architecture
+```
+
+---
+
+## ⚡ Tech Stack
+
+### Backend & API
+
+<p>
+<img src="https://skillicons.dev/icons?i=php,laravel,nodejs"/>
+</p>
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react"/>
+</p>
+
+### Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,redis"/>
+</p>
+
+### Infrastructure
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,linux,nginx,githubactions"/>
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
+</p>
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true"/>
+
+</p>
+
+---
+
+## 🔥 Current Interests
+
+* ⚙️ Infrastructure Automation
+* 🧠 AI Workflow & Agent System
+* 📡 Network Monitoring
+* 🐳 Containerized Deployment
+* 📈 Observability & Monitoring
+
+---
+
+## 🏗 Recent Projects
+
+📌 Government Digital Services
+📌 Monitoring & Notification System
+📌 Automated Document Workflow
+📌 CI/CD Pipeline Deployment
+📌 API & Data Integration
+
+---
+
+## 🌐 Connect
+
+<p>
+<a href="https://github.com/YOUR_USERNAME">GitHub</a> •
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">LinkedIn</a> •
+<a href="mailto:YOUR_EMAIL">Email</a>
+</p>
+
+---
+
+<div align="center">
+
+### ☕ Build. Automate. Improve.
+
+</div>
